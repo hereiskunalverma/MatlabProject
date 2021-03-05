@@ -7,7 +7,7 @@ Based on it I decided to do a simple and basic project which to just highlight m
 So I made an project on "Automatic Certificate Generator".
 
 
-- This is just a basic implementation of what a lot of organizations and institutes, and companies used to generate online certificates.
+- This is just a basic implementation of what a lot of organizations and institutes, and companies uses to generate online certificates.
 
 
 # Note - Modifications and Suggestions are most welcome :innocent:
